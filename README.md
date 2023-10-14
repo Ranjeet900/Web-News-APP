@@ -8,7 +8,6 @@
 
 ![Picture4](https://github.com/Ranjeet900/Web-News-APP/assets/57497261/c34d54e8-bb81-4520-95e4-7a1930aa0827)
 ![Picture5](https://github.com/Ranjeet900/Web-News-APP/assets/57497261/4e392b75-89f5-4f18-b8db-7009206686e7)
-
 ![Picture2](https://github.com/Ranjeet900/Web-News-APP/assets/57497261/fd7df6fd-b446-4c27-9bcf-2d38bd978203)
 ![Picture3](https://github.com/Ranjeet900/Web-News-APP/assets/57497261/296bb206-ab0a-46d7-87f1-539cb1fe95d1)
 ![Picture9](https://github.com/Ranjeet900/Web-News-APP/assets/57497261/8ef6e584-dac3-4609-8f74-ace9c07c8187)
